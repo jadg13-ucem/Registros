@@ -28,8 +28,11 @@ namespace Productos.Dao
 
         public Producto[] VerCarrito()
         {
+            
             return carrito;
         }
+
+        
 
     }
 }
